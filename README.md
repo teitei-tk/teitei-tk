@@ -23,14 +23,14 @@ Software Enginner in Japan/Tokyo,
 
 ### Tools
 * ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-* ![Cloudflare](https://img.shields.io/badge/-Cloudflare-black.svg?logo=cloudflare&style=flat-square)
+* ![Cloudflare](https://img.shields.io/badge/-Cloudflare-white.svg?logo=cloudflare&style=flat-square)
 
 ## Interests
 
 - AI & AGI development
 - Software architecture & maintainability
-- Ethical engineering and team scaling
+- team scaling and management
 
-## Contact
-
-[![Twitter](https://img.shields.io/badge/-@teitei_tk-000000.svg?logo=x&style=flat-square")](https://twitter.com/teitei_tk "Follow on Twitter")
+## etc
+- [Twitter](https://x.com/teitei_tk)
+- [Portfolio](https://lapras.com/public/teitei_tk)
